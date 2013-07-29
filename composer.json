@@ -1,0 +1,10 @@
+{
+    "name": "laravel/oneauth",
+    "type": "library",
+    "description": "Oneauth for Laravel",
+    "version": "1.0",
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/Wordenskjold/laravel-oneauth",
+    "license": "Apache-2.0",
+    ]
+}
