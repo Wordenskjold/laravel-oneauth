@@ -1,9 +1,9 @@
 {
-    "name": "laravel/oneauth",
+    "name": "oneauth",
     "type": "library",
     "description": "",
     "homepage": "https://github.com/codenitive/laravel-oneauth/",
-    "version": "dev",
+    "version": "1.0-alpha",
     "minimum-stability": "dev",
     "license": "Apache-2.0",
     "authors": [
