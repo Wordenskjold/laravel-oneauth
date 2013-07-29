@@ -3,7 +3,7 @@
     "type": "library",
     "description": "",
     "homepage": "https://github.com/codenitive/laravel-oneauth/",
-    "version": "1.0",
+    "version": "dev",
     "minimum-stability": "dev",
     "license": "Apache-2.0",
     "authors": [
